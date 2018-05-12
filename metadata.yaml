@@ -1,0 +1,38 @@
+_repo: Katerfelto--A-Story-of-Exmoor_40883
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crealocke, Henry Hope
+    alias: Crealocke, H. Hope
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '40874'
+    url: http://www.gutenberg.org/2009/agents/40874
+covers:
+- cover_type: archival
+  image_path: 40883-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whyte-Melville, G. J. (George John)
+    aliases:
+    - Whyte-Melville, George John
+    - Melville, G. J. Whyte
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '3832'
+    url: http://www.gutenberg.org/2009/agents/3832
+    wikipedia: http://en.wikipedia.org/wiki/George_Whyte-Melville
+description: ''
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Exmoor (England) -- Fiction'
+title: 'Katerfelto: A Story of Exmoor'
+url: http://www.gutenberg.org/ebooks/40883
